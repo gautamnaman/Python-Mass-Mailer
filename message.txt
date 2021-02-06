@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME},
+
+This is a test email sent using the Python Mass Mailer script.
+
+Have a great day:)
+
+Yours Truly
